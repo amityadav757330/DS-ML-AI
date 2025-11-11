@@ -43,5 +43,5 @@ The course covered the following major domains:
 
 ---
 
-## 📂 Repository Structure
+
 
